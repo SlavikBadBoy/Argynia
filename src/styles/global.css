@@ -1,0 +1,18 @@
+body {
+  background: url(/src/images/background.jpg);
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  list-style: none;
+}
+.container {
+  min-width: 320px;
+  max-width: 1170px;
+}
